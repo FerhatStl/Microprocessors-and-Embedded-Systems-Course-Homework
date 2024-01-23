@@ -9,7 +9,7 @@ https://github.com/FerhatStl/Microprocessors-and-Embedded-Systems-Course-Homewor
 
 
 
-Question 2: A Counter from 0 to 99
+Question 2: A Counter from 0 to 99 (Video is playing at x4 speed)
 
 
 https://github.com/FerhatStl/Microprocessors-and-Embedded-Systems-Course-Homework/assets/97604027/bbd64e47-79c8-42de-a510-8e8d1be9394d
